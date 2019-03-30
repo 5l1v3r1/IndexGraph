@@ -1,1 +1,0 @@
-$source_str1,$destination_str1
