@@ -1,0 +1,3 @@
+add_subdirectory(stinger_core)
+add_subdirectory(stinger_net)
+add_subdirectory(stinger_utils)

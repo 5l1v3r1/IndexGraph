@@ -1,0 +1,72 @@
+# STINGER local stuff
+/build
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Editor temporaries
+*~
+
+# Google Protobufs
+/src/lib/protobuf/configure
+/src/lib/protobuf/autom4te.cache/
+
+*.pyc
+
+.project
+.cproject
+.pydevproject
+
+*.pickle
+/flask/stinger_paths.py
+
+# Prerequisites
+*.d
+
+# Compiled Object :w
+ufiles
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+tags
+
+perf.data
+perf.data.old
+
+*.data
